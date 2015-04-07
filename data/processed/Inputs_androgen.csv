@@ -1,0 +1,4 @@
+"","space","start","end","width","peak","feature","names","strand","start_position","end_position","insideFeature","distancetoFeature","shortestDistance","fromOverlappingOrNearest","external_gene_name","V1","V2","V3","V5"
+"1","1",168570177,168570401,225,"Inputs_androgen_vs_vehicle_cond1_1","ENSG00000143184","Inputs_androgen_vs_vehicle_cond1_1 ENSG00000143184","+",168576473,168582077,"upstream",-6296,6072,"NearestStart","XCL1",1,168570177,168570401,17.00664
+"2","18",6476170,6476371,202,"Inputs_androgen_vs_vehicle_cond1_2","ENSG00000235552","Inputs_androgen_vs_vehicle_cond1_2 ENSG00000235552","-",6462144,6463015,"upstream",-13155,13155,"NearestStart","RPL6P27",18,6476170,6476371,16.61485
+"3","8",90522016,90522230,215,"Inputs_androgen_vs_vehicle_cond1_3","ENSG00000199354","Inputs_androgen_vs_vehicle_cond1_3 ENSG00000199354","+",90511128,90511240,"downstream",10888,10776,"NearestStart","RNA5SP273",8,90522016,90522230,11.22346

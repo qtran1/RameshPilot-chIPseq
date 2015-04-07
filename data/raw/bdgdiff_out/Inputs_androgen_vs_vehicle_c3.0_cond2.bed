@@ -1,0 +1,12 @@
+track name="condition 2 (peaks)" description="unique regions in condition 2" visibility=1
+1	230597948	230598155	Inputs_androgen_vs_vehicle_cond2_1	15.07126
+12	43685789	43685998	Inputs_androgen_vs_vehicle_cond2_2	22.31342
+14	44172426	44172626	Inputs_androgen_vs_vehicle_cond2_3	6.81642
+17	77392288	77392491	Inputs_androgen_vs_vehicle_cond2_4	3.83020
+19	34939575	34939824	Inputs_androgen_vs_vehicle_cond2_5	11.95767
+2	53636878	53637108	Inputs_androgen_vs_vehicle_cond2_6	12.81362
+22	22333165	22333432	Inputs_androgen_vs_vehicle_cond2_7	13.09582
+3	93470375	93470590	Inputs_androgen_vs_vehicle_cond2_8	7.45878
+3	106454451	106454665	Inputs_androgen_vs_vehicle_cond2_9	8.69419
+4	3022835	3023143	Inputs_androgen_vs_vehicle_cond2_10	7.53078
+KI270467.1	2361	2645	Inputs_androgen_vs_vehicle_cond2_11	7.18847

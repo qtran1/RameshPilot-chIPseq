@@ -1,0 +1,6 @@
+track name="common (peaks)" description="common regions in both conditions" visibility=1
+4	49710560	49710802	Pool1_androgen_vs_vehicle_common_1	2.57195
+KI270333.1	356	578	Pool1_androgen_vs_vehicle_common_2	0.85091
+KI270333.1	892	1206	Pool1_androgen_vs_vehicle_common_3	0.93193
+KI270333.1	1451	1727	Pool1_androgen_vs_vehicle_common_4	1.30529
+KI270467.1	1966	2476	Pool1_androgen_vs_vehicle_common_5	1.29477

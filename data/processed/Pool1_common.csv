@@ -1,0 +1,6 @@
+"","space","start","end","width","peak","feature","names","strand","start_position","end_position","insideFeature","distancetoFeature","shortestDistance","fromOverlappingOrNearest","external_gene_name","V1","V2","V3","V5"
+"1","4",49710560,49710802,243,"Pool1_androgen_vs_vehicle_common_1","ENSG00000223099","Pool1_androgen_vs_vehicle_common_1 ENSG00000223099","-",49599428,49599509,"upstream",-111051,111051,"NearestStart","AC119751.4","4",49710560,49710802,2.57195
+"2","KI270333.1",356,578,223,"Pool1_androgen_vs_vehicle_common_2",NA,"Pool1_androgen_vs_vehicle_common_2 NA","+",NA,NA,NA,NA,NA,"NearestStart",NA,"KI270333.1",356,578,0.85091
+"3","KI270333.1",892,1206,315,"Pool1_androgen_vs_vehicle_common_3",NA,"Pool1_androgen_vs_vehicle_common_3 NA","+",NA,NA,NA,NA,NA,"NearestStart",NA,"KI270333.1",892,1206,0.93193
+"4","KI270333.1",1451,1727,277,"Pool1_androgen_vs_vehicle_common_4",NA,"Pool1_androgen_vs_vehicle_common_4 NA","+",NA,NA,NA,NA,NA,"NearestStart",NA,"KI270333.1",1451,1727,1.30529
+"5","KI270467.1",1966,2476,511,"Pool1_androgen_vs_vehicle_common_5",NA,"Pool1_androgen_vs_vehicle_common_5 NA","+",NA,NA,NA,NA,NA,"NearestStart",NA,"KI270467.1",1966,2476,1.29477

@@ -1,0 +1,2 @@
+"","space","start","end","width","peak","feature","names","strand","start_position","end_position","insideFeature","distancetoFeature","shortestDistance","fromOverlappingOrNearest","external_gene_name","V1","V2","V3","V5"
+"1","5",49630995,49630996,2,"Sample4_trimmed_045_Pool2_peak_2","ENSG00000170571","Sample4_trimmed_045_Pool2_peak_2 ENSG00000170571","-",50396192,50443248,"downstream",812253,765196,"NearestStart","EMB",5,49630995,49630996,3.63871

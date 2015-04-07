@@ -1,0 +1,10 @@
+track name="condition 1 (peaks)" description="unique regions in condition 1" visibility=1
+10	65067312	65067567	Pool1_androgen_vs_vehicle_cond1_1	12.90846
+2	56319540	56319748	Pool1_androgen_vs_vehicle_cond1_2	16.29558
+3	93470389	93470687	Pool1_androgen_vs_vehicle_cond1_3	4.14547
+4	49710542	49710890	Pool1_androgen_vs_vehicle_cond1_4	3.83850
+4	49711437	49711705	Pool1_androgen_vs_vehicle_cond1_5	4.83846
+5	24155189	24155405	Pool1_androgen_vs_vehicle_cond1_6	9.61953
+5	49630877	49631079	Pool1_androgen_vs_vehicle_cond1_7	3.73545
+9	71150946	71151231	Pool1_androgen_vs_vehicle_cond1_8	19.28020
+KI270337.1	173	510	Pool1_androgen_vs_vehicle_cond1_9	4.07375

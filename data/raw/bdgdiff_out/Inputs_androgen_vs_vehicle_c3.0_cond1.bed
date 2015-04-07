@@ -1,0 +1,4 @@
+track name="condition 1 (peaks)" description="unique regions in condition 1" visibility=1
+1	168570177	168570401	Inputs_androgen_vs_vehicle_cond1_1	17.00664
+18	6476170	6476371	Inputs_androgen_vs_vehicle_cond1_2	16.61485
+8	90522016	90522230	Inputs_androgen_vs_vehicle_cond1_3	11.22346

@@ -1,0 +1,9 @@
+"","space","start","end","width","peak","feature","names","strand","start_position","end_position","insideFeature","distancetoFeature","shortestDistance","fromOverlappingOrNearest","external_gene_name","V1","V2","V3","V5"
+"1","4",49710746,49710747,2,"Sample4_trimmed_045_Pool1_peak_2","ENSG00000223099","Sample4_trimmed_045_Pool1_peak_2 ENSG00000223099","-",49599428,49599509,"upstream",-111237,111237,"NearestStart","AC119751.4","4",49710746,49710747,13.05042
+"2","4",49711640,49711641,2,"Sample4_trimmed_045_Pool1_peak_3","ENSG00000223099","Sample4_trimmed_045_Pool1_peak_3 ENSG00000223099","-",49599428,49599509,"upstream",-112131,112131,"NearestStart","AC119751.4","4",49711640,49711641,10.56212
+"3","4",51107350,51107351,2,"Sample4_trimmed_045_Pool1_peak_4","ENSG00000109184","Sample4_trimmed_045_Pool1_peak_4 ENSG00000109184","+",51843000,51916837,"upstream",-735650,735649,"NearestStart","DCUN1D4","4",51107350,51107351,3.72706
+"4","KI270333.1",452,453,2,"Sample4_trimmed_045_Pool1_peak_6",NA,"Sample4_trimmed_045_Pool1_peak_6 NA","+",NA,NA,NA,NA,NA,"NearestStart",NA,"KI270333.1",452,453,2.2496
+"5","KI270336.1",857,858,2,"Sample4_trimmed_045_Pool1_peak_7",NA,"Sample4_trimmed_045_Pool1_peak_7 NA","+",NA,NA,NA,NA,NA,"NearestStart",NA,"KI270336.1",857,858,14.84368
+"6","KI270337.1",288,289,2,"Sample4_trimmed_045_Pool1_peak_8",NA,"Sample4_trimmed_045_Pool1_peak_8 NA","+",NA,NA,NA,NA,NA,"NearestStart",NA,"KI270337.1",288,289,6.32665
+"7","KI270466.1",991,992,2,"Sample4_trimmed_045_Pool1_peak_9",NA,"Sample4_trimmed_045_Pool1_peak_9 NA","+",NA,NA,NA,NA,NA,"NearestStart",NA,"KI270466.1",991,992,23.69413
+"8","KI270467.1",2350,2351,2,"Sample4_trimmed_045_Pool1_peak_10",NA,"Sample4_trimmed_045_Pool1_peak_10 NA","+",NA,NA,NA,NA,NA,"NearestStart",NA,"KI270467.1",2350,2351,17.33459
