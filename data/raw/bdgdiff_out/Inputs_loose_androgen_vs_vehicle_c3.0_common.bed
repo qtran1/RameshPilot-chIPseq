@@ -1,0 +1,10 @@
+track name="common (peaks)" description="common regions in both conditions" visibility=1
+1	195560956	195561076	Inputs_loose_androgen_vs_vehicle_common_1	0.13408
+11	87244445	87244565	Inputs_loose_androgen_vs_vehicle_common_2	0.03902
+14	28331448	28331569	Inputs_loose_androgen_vs_vehicle_common_3	0.09270
+4	51107251	51107374	Inputs_loose_androgen_vs_vehicle_common_4	1.63496
+5	49612343	49612465	Inputs_loose_androgen_vs_vehicle_common_5	0.10139
+KI270333.1	353	532	Inputs_loose_androgen_vs_vehicle_common_6	0.89948
+KI270466.1	916	1065	Inputs_loose_androgen_vs_vehicle_common_7	1.19738
+KI270467.1	2013	2151	Inputs_loose_androgen_vs_vehicle_common_8	1.23401
+KI270467.1	3362	3507	Inputs_loose_androgen_vs_vehicle_common_9	0.66820

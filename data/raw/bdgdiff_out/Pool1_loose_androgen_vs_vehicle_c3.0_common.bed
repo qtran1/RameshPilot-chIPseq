@@ -1,0 +1,17 @@
+track name="common (peaks)" description="common regions in both conditions" visibility=1
+3	32169059	32169186	Pool1_loose_androgen_vs_vehicle_common_1	1.80382
+4	49710560	49710715	Pool1_loose_androgen_vs_vehicle_common_2	2.56256
+5	78452666	78452795	Pool1_loose_androgen_vs_vehicle_common_3	1.56901
+8	134417045	134417168	Pool1_loose_androgen_vs_vehicle_common_4	0.04326
+KI270333.1	356	578	Pool1_loose_androgen_vs_vehicle_common_5	0.85091
+KI270333.1	1086	1206	Pool1_loose_androgen_vs_vehicle_common_6	0.49236
+KI270333.1	1451	1727	Pool1_loose_androgen_vs_vehicle_common_7	1.30529
+KI270336.1	95	233	Pool1_loose_androgen_vs_vehicle_common_8	1.39332
+KI270336.1	845	969	Pool1_loose_androgen_vs_vehicle_common_9	1.93075
+KI270337.1	755	875	Pool1_loose_androgen_vs_vehicle_common_10	2.52597
+KI270466.1	439	569	Pool1_loose_androgen_vs_vehicle_common_11	0.99028
+KI270466.1	886	1085	Pool1_loose_androgen_vs_vehicle_common_12	0.33728
+KI270467.1	1431	1561	Pool1_loose_androgen_vs_vehicle_common_13	1.75293
+KI270467.1	1966	2163	Pool1_loose_androgen_vs_vehicle_common_14	1.37186
+KI270467.1	2257	2476	Pool1_loose_androgen_vs_vehicle_common_15	1.21728
+KI270467.1	2653	2796	Pool1_loose_androgen_vs_vehicle_common_16	0.27962
